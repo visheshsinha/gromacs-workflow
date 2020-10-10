@@ -46,7 +46,6 @@ jobs:
         sh ./config04.sh
         sh ./config05.sh
         sh ./config06.sh
-        sh ./config07.sh
       
     - name: Commit files
       id: commit
